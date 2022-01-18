@@ -1,11 +1,11 @@
 enter
-talk to npc
+talk to him
 walk through
 get pole
 out
 south
-catch fish with pole
-bag some air
+fishing with pole
+bag air
 north
 east
 enter
@@ -17,12 +17,12 @@ walk through
 room 2
 pick the energy sword
 
-talk to npc
+talk to him
 walk through
 out
 south
-catch fish with pole
-bag some air
+fishing with pole
+bag air
 north
 east
 enter
@@ -38,4 +38,4 @@ enter
 walk through
 room 1
 examine screen
-TRY roses are red
+TRY 22
